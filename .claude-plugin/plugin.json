@@ -1,6 +1,6 @@
 {
   "name": "ux-review",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Multi-agent UX review system with simulated user personas and specialist analysis",
   "author": { "name": "GrillerGeek" }
 }
