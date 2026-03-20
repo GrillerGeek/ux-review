@@ -5,7 +5,7 @@ A multi-agent UX review system that conducts comprehensive usability analysis us
 ## Installation
 
 ```bash
-claude install-plugin https://github.com/GrillerGeek/skills.git
+claude install-plugin https://github.com/GrillerGeek/ux-review.git
 ```
 
 ## Usage
