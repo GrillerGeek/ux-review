@@ -4,8 +4,18 @@ A multi-agent UX review system that conducts comprehensive usability analysis us
 
 ## Installation
 
+**Option 1: Via the GrillerGeek marketplace** (recommended)
+
 ```bash
-claude install-plugin https://github.com/GrillerGeek/ux-review.git
+claude plugin marketplace add https://github.com/GrillerGeek/skills.git
+claude plugin install ux-review
+```
+
+**Option 2: Local testing**
+
+```bash
+git clone https://github.com/GrillerGeek/ux-review.git
+claude --plugin-dir ./ux-review
 ```
 
 ## Usage
