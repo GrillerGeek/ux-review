@@ -1,0 +1,6 @@
+{
+  "name": "ux-review",
+  "version": "1.0.0",
+  "description": "Multi-agent UX review system with simulated user personas and specialist analysis",
+  "author": { "name": "jrobey" }
+}
