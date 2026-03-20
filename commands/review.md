@@ -5,7 +5,7 @@ argument-hint: [url-or-path] [--screenshots-only]
 
 Initialize the UX review workspace by running the init script:
 
-!`bash ${CLAUDE_PLUGIN_ROOT}/scripts/init-review.sh`
+`bash ${CLAUDE_PLUGIN_ROOT}/scripts/init-review.sh`
 
 Detect the application type from `$ARGUMENTS`:
 - If the argument is a URL (starts with http:// or https://), this is a **web application** review
