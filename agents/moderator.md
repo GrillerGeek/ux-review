@@ -1,6 +1,8 @@
 ---
 name: ux-review-moderator
-description: Use this agent when orchestrating a full UX review session. Examples:
+description: |
+  Use this agent when orchestrating a full UX review session.
+  Examples:
 
   <example>
   Context: User invoked /ux-review to start a UX review

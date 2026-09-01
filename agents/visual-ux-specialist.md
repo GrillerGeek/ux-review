@@ -1,6 +1,8 @@
 ---
 name: visual-ux-specialist
-description: Use this agent when a UX review needs visual design analysis, UI assessment, and improvement mockups. Examples:
+description: |
+  Use this agent when a UX review needs visual design analysis, UI assessment, and improvement mockups.
+  Examples:
 
   <example>
   Context: Moderator dispatches visual specialist during Phase 5

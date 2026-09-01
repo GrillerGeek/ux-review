@@ -1,6 +1,8 @@
 ---
 name: persona-interviewer
-description: Use this agent when a UX review needs simulated user interviews or app walkthroughs from a specific persona's perspective. Examples:
+description: |
+  Use this agent when a UX review needs simulated user interviews or app walkthroughs from a specific persona's perspective.
+  Examples:
 
   <example>
   Context: Moderator needs to simulate a small business owner using an app
