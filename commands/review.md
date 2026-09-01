@@ -1,6 +1,7 @@
 ---
-description: Run a comprehensive UX review with simulated user personas and specialist analysis
-argument-hint: [url-or-path] [--screenshots-only]
+description: |
+  Run a comprehensive UX review with simulated user personas and specialist analysis
+argument-hint: "[url-or-path] [--screenshots-only]"
 ---
 
 Initialize the UX review workspace by running the init script:

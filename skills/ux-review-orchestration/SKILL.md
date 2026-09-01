@@ -1,6 +1,8 @@
 ---
 name: UX Review Orchestration
-description: This skill should be used when the user asks to "run a UX review", "review UX", "get user feedback on my app", "conduct usability testing", "create UX personas", "test with user personas", "do a usability audit", "find UX issues", "evaluate usability", or invokes the /ux-review command. Orchestrates a multi-agent UX review workflow with simulated persona research and specialist analysis.
+description: |
+  This skill should be used when the user asks to "run a UX review", "review UX", "get user feedback on my app", "conduct usability testing", "create UX personas", "test with user personas", "do a usability audit", "find UX issues", "evaluate usability", or invokes the /ux-review command.
+  Orchestrates a multi-agent UX review workflow with simulated persona research and specialist analysis.
 ---
 
 # UX Review Orchestration

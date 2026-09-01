@@ -1,6 +1,8 @@
 ---
 name: technical-ux-specialist
-description: Use this agent when a UX review needs technical usability analysis covering information architecture, navigation, task flows, error handling, and accessibility. Examples:
+description: |
+  Use this agent when a UX review needs technical usability analysis covering information architecture, navigation, task flows, error handling, and accessibility.
+  Examples:
 
   <example>
   Context: Moderator dispatches specialist review after persona walkthroughs
